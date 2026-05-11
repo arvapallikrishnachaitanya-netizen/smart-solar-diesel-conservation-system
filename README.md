@@ -52,6 +52,12 @@ The system automatically switches between solar energy and diesel backup dependi
 
 \- LEDs
 
+\## Live IoT Monitoring Dashboard
+
+
+
+!\[Dashboard](Images/DASHBOARD PREVIEW.png)
+
 
 
 \## Author
