@@ -60,6 +60,60 @@ The system automatically switches between solar energy and diesel backup dependi
 
 
 
+\## Circuit Diagram
+
+
+
+!\[Circuit](Circuit\_Diagram/circuit\_diagram.png)
+
+
+
+\## Technologies Used
+
+
+
+\- Arduino UNO
+
+\- Embedded C++
+
+\- IoT Concepts
+
+\- Solar Energy Systems
+
+\- Relay Automation
+
+\- Sensor Monitoring
+
+\- React Dashboard UI
+
+
+
+\## Future Enhancements
+
+
+
+\- Cloud Integration
+
+\- AI-Based Energy Prediction
+
+\- Mobile App Monitoring
+
+\- Smart Grid Integration
+
+\- Fuel Consumption Analytics
+
+\- Remote Monitoring System
+
+
+
+
+
+
+
+
+
+
+
 \## Author
 
 
