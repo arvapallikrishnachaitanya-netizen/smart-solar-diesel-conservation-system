@@ -1,0 +1,27 @@
+SMART SOLAR DIESEL CONSERVATION SYSTEM
+
+Connections:
+
+LDR Sensor:
+VCC -> 5V
+GND -> GND
+AO  -> A0
+
+Relay Module:
+IN  -> D7
+VCC -> 5V
+GND -> GND
+
+Solar LED:
++ -> D8
+- -> GND
+
+Diesel LED:
++ -> D9
+- -> GND
+
+LCD Display:
+SDA -> A4
+SCL -> A5
+VCC -> 5V
+GND -> GND
